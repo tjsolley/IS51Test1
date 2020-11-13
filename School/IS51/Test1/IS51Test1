@@ -1,0 +1,11 @@
+
+
+
+"""
+This program will be able to determine wether getting payed a $100 a day for ten days is better than
+recieveing 1$ on the first then doubling it everyday.  
+Function will calculate the amount for the first option
+Function2 will calculate the amount for the second option
+
+"""
+
