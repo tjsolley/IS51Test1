@@ -6,6 +6,13 @@ This program will be able to determine wether getting payed a $100 a day for ten
 recieveing 1$ on the first then doubling it everyday.  
 Function will calculate the amount for the first option
 Function2 will calculate the amount for the second option
-
 """
 
+"""
+function1 will output 100 * 10 days
+Function 2 will loop 10 times,with each time doubling the amount and then add the amount to the total.
+
+if amounts are equal, we output option1 and option2 are the same
+if option1 is better, "we output option1 is better"
+if option2 is better, "we output option2 is better"
+"""
